@@ -9,8 +9,10 @@ p.bio {
   width: 300px;
   padding: 15px;
   height: 800px;
+  border: 5px solid darkgreen;
 }
 
 .imagefloat {
   float: left;
+  padding: 20px;
 }
